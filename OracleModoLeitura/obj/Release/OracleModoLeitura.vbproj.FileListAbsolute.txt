@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\System.Data.OracleClient.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\OracleModoLeitura.exe.config
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\OracleModoLeitura.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\OracleModoLeitura.pdb
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\OracleModoLeitura.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\Icraft.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.Form1.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.Resources.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OracleModoLeitura_V01.00\OracleModoLeitura\obj\Release\OracleModoLeitura.pdb

@@ -1,0 +1,16 @@
+S:\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\OraModoLeitura.exe.config
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\OraModoLeitura.exe.config
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\System.Data.OracleClient.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\OraModoLeitura.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\OraModoLeitura.pdb
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\OraModoLeitura.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\Icraft.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.Form1.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.Resources.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\OraModoLeitura_V01.00\OraModoLeitura\obj\Debug\OraModoLeitura.pdb
